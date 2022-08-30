@@ -1,0 +1,9 @@
+.card-item {
+    margin-bottom: 20px;
+    width: 18rem;
+    cursor: pointer;
+}
+
+.link-item {
+    text-decoration: none!important;
+}

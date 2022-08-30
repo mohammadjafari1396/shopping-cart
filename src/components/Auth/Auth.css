@@ -1,0 +1,22 @@
+.login {
+    text-align: center;
+    width: 40%;
+    margin: 50px auto;
+    background-color: rgb(7, 172, 201);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 3px #0000001a;
+}
+
+.login button {
+    border: none;
+    background-color: black;
+    color: #fff;
+    padding: 4px 10px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.login h3 {
+    color:#fff;
+}
